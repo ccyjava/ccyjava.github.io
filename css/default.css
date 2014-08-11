@@ -142,6 +142,13 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 .home-contact { color:#fff; margin-top:2px; background:#000; padding:8px 0 7px; text-align:center; display:none;}
 .home-contact a { width:30px; display:inline-block; }
 .home-contact img { width:18px; }
+.home-foot{
+    z-index: 5;
+    color: white;
+    float: left;
+    position: absolute;
+    bottom: 0;
+}
 
 @media screen and (max-width: 750px){
     body {font-size:14px;}
