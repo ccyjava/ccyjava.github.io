@@ -15,3 +15,13 @@ layout: home
 {% endfor %}
 </ul>
 
+<script type="text/javascript">
+    $(function(){
+        $("#blogbar").removeClass("on");
+        $("#opinionbar").removeClass("on");
+        $("#projectbar").addClass("on");
+
+    });
+
+</script>
+
