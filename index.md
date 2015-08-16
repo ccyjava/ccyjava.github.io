@@ -8,7 +8,7 @@ layout: home
 {% for post in site.categories.blog %}
     <li>
         <h2>
-            <a href="{{ post.url }}">{{ post.title }}</a>
+            <a href="{{ post.url }}">{{ post.title }}&nbsp;&nbsp;&nbsp;&nbsp;{{ post.date|date:"%Y-%m-%d" }}</a>
         </h2>
         <div class="title-desc">{{ post.description }}</div>
     </li>
