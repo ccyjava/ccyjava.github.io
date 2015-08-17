@@ -6,6 +6,6 @@ paginate: 8
 permalink: /:title
 
 title: YES!CODING! --ccyjava's blog
-url: http://yescoding.com
+url: http://www.yescoding.com
 feed: /atom.xml
-author_info: <a href="http://yescoding.com/">CCYJAVA</a>
+author_info: <a href="http://www.yescoding.com/">CCYJAVA</a>
